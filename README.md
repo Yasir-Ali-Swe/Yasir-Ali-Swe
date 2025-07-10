@@ -5,7 +5,7 @@
 <h1 align="center">Hey there, I'm Yasir Ali 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Next.js+%7C+Tailwind+CSS+Enthusiast;Future+React+Native+%26+Generative+AI+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=MERN%20Stack%20Developer;Next.js%20%7C%20Tailwind%20CSS%20Enthusiast;Future%20React%20Native%20%26%20Generative%20AI%20Explorer" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working as a **MERN Stack Developer**
 - 🎨 I love crafting modern, responsive web apps with **Next.js** & **Tailwind CSS**
-- 📱 **Future Goals:** Build cross-platform apps with **React Native** & explore **Generative AI**
+- 🚀 **Future Goals:** Build cross-platform apps with **React Native** & explore **Generative AI**
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/yasir-ali-75541534a/)
 - 📬 **Email:** [ali.yasirswe@gmail.com](mailto:ali.yasirswe@gmail.com)
 
@@ -36,8 +36,8 @@
 
 ### 🚀 What’s Next?
 
-✅ **React Native:** Building cross-platform mobile apps.  
-✅ **Generative AI:** Exploring cutting-edge AI for smart, creative solutions.
+✅ **React Native:** Building cross-platform mobile apps  
+✅ **Generative AI:** Exploring cutting-edge AI for smart, creative solutions
 
 ---
 
