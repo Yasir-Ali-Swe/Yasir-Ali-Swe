@@ -41,23 +41,7 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yasir-Ali-Swe&show_icons=true&theme=tokyonight" alt="Yasir's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yasir-Ali-Swe&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 📊 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yasir-Ali-Swe&style=flat-square&color=0A66C2" alt="Visitor Count" />
-</p>
-
----
 
 ### 📬 Connect with Me
 
