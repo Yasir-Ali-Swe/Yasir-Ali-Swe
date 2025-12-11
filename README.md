@@ -5,7 +5,7 @@
 <h1 align="center">Hey there, I'm Yasir Ali 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=MERN%20Stack%20Developer;Next.js%20%7C%20Tailwind%20CSS%20Enthusiast;DevOps%20Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=MERN%20Stack%20Developer;Next.js%20%7C%20Tailwind%20CSS%20Enthusiast;Agentic Ai%20Learner" alt="Typing SVG" />
 </p>
 
 ---
