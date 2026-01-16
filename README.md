@@ -63,7 +63,6 @@ Results-driven Full-Stack Developer with expertise in **Next.js, MERN Stack, and
 | **Aspect** | **Value Proposition** |
 |------------|----------------------|
 | **Code Quality** | Clean, maintainable, well-documented code with TypeScript |
-| **Performance** | Optimized applications with Lighthouse scores 90+ |
 | **Scalability** | Architecture designed for growth and maintainability |
 | **AI Readiness** | Forward-thinking implementations prepared for AI integration |
 | **Collaboration** | Strong communication skills and team-oriented development |
