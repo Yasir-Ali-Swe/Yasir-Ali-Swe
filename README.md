@@ -1,58 +1,136 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="Hi!" />
-</p>
-
-<h1 align="center">Hey there, I'm Yasir Ali 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=MERN%20Stack%20Developer;Next.js%20%7C%20Tailwind%20CSS%20Enthusiast;Agentic%20AI%20Learner" alt="Typing SVG" />
-</p>
+# **Yasir Ali**  
+### **Full-Stack Developer | Next.js & AI Integration Specialist**  
 
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,tailwind,js,html,css,docker,git,github" alt="My Tech Stack" />
-</p>
+## 👨‍💻 **Professional Summary**  
+Results-driven Full-Stack Developer with expertise in **Next.js, MERN Stack, and modern web technologies**. Passionate about building scalable, high-performance applications with elegant UI/UX. Currently expanding expertise in **AI integration**, focusing on **LangChain, vector databases, and RAG systems** to create intelligent, next-generation web applications.
 
 ---
 
-### 👨‍💻 About Me
+## 🛠 **Technical Stack**  
 
-- 🔭 I’m currently working as a **MERN Stack Developer**
-- 🎨 I enjoy building modern, responsive apps with **Next.js** and **Tailwind CSS**
-- 🤖 **Current Learning:** Agentic AI, tool-calling, autonomous workflows, LLM-based systems  
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/yasir-ali-75541534a/)
-- 📬 **Email:** [ali.yasirswe@gmail.com](mailto:ali.yasirswe@gmail.com)
+### **Frontend Development**
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?logo=reactquery&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui-000000?logo=shadcnui&logoColor=white)
+
+### **Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+### **AI & Development Tools**
+![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?logo=vercel&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1E90FF?logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ---
 
-### 🛠️ My Tech Stack
+## 🚀 **Core Competencies**
 
-| **Frontend** | **Backend** | **Database** | **AI / Tools** |
-| --- | --- | --- | --- |
-| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white) | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1E90FF?logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
+### **Full-Stack Development**
+- **Next.js 14+**: App Router, Server Components, Server Actions, API Routes, ISR/SSR
+- **MERN Stack**: End-to-end application development with MongoDB, Express, React, and Node.js
+- **Modern UI/UX**: Component-driven development with Tailwind CSS and Shadcn/ui
+- **State Management**: Redux Toolkit for global state, TanStack Query for server-state synchronization
+- **Performance Optimization**: Code splitting, image optimization, caching strategies, bundle analysis
+
+### **Backend Architecture**
+- **RESTful APIs**: Design and implementation of scalable backend services
+- **Authentication & Authorization**: JWT, OAuth, role-based access control
+- **Database Design**: MongoDB with Mongoose ODM, complex aggregations, data modeling
+- **API Integration**: Third-party services, payment gateways, and external APIs
+
+### **AI Integration (Current Focus)**
+- **Vercel AI SDK**: Building AI-powered interfaces with streaming responses
+- **Future Roadmap**: LangChain.js for agentic workflows, vector databases (Pinecone/Weaviate), RAG systems
+- **AI-Augmented Applications**: Integrating LLMs into practical business solutions
 
 ---
 
-### 🚀 What’s Next?
+## 📊 **What I Deliver**
 
-✅ **Agentic AI:** tool calling, workflow orchestration, autonomous agents, real-world integrations  
-✅ Building AI-powered features into MERN + Next.js projects  
-✅ Experimenting with LangChain, OpenAI Assistants, and custom agent architectures  
+| **Aspect** | **Value Proposition** |
+|------------|----------------------|
+| **Code Quality** | Clean, maintainable, well-documented code with TypeScript |
+| **Performance** | Optimized applications with Lighthouse scores 90+ |
+| **Scalability** | Architecture designed for growth and maintainability |
+| **AI Readiness** | Forward-thinking implementations prepared for AI integration |
+| **Collaboration** | Strong communication skills and team-oriented development |
 
 ---
 
-### 📬 Connect with Me
+## 🔮 **Technology Roadmap**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yasir-ali-75541534a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+### **Currently Mastering**
+- **Advanced Next.js 15**: Parallel routes, intercepting routes, advanced caching
+- **AI Integration**: Vercel AI SDK for real-time AI features
+
+### **2024 Focus**
+1. **LangChain.js Implementation** - Agentic AI workflows and tool calling
+2. **Vector Databases** - Pinecone/Weaviate for semantic search capabilities
+3. **RAG Systems** - Building retrieval-augmented generation pipelines
+4. **AI Agents** - Autonomous systems for task automation
+
+### **Future Vision**
+- Building AI-native applications that redefine user experiences
+- Implementing production-grade AI systems with proper monitoring and evaluation
+- Contributing to open-source AI projects in the web development space
+
+---
+
+## 💼 **Professional Highlights**
+
+- **Full-Stack Ownership**: Capable of leading projects from conception to deployment
+- **Modern Practices**: Adherence to best practices in code quality, testing, and documentation
+- **Business Alignment**: Technical solutions that drive real business value
+- **Continuous Learning**: Staying current with emerging technologies and industry trends
+
+---
+
+## 📬 **Connect With Me**
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yasir-ali-75541534a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ali.yasirswe@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ---
 
-⭐️ *Thanks for checking out my profile. Let’s build something smart together.*
+## 📝 **Open to Opportunities**
+
+I'm actively seeking roles where I can:
+- Apply my full-stack expertise to challenging problems
+- Contribute to AI-integrated web applications
+- Work with innovative teams on cutting-edge technologies
+- Grow as a developer while delivering tangible business impact
+
+---
+
+> *"Building the future of web applications, one line of code at a time. Let's connect and create something extraordinary."*
+
+---
+
+<div align="center">
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat)
+  
+  *Last Updated: November 2024*
+</div>
