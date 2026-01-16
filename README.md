@@ -1,82 +1,79 @@
 # Yasir Ali  
-**Full-Stack Developer | Next.js, TypeScript, JavaScript AI Integrations**
+**Full-Stack Developer | Next.js, TypeScript, JavaScript AI**
 
-I build production-ready full-stack web applications using **Next.js and TypeScript**, with a strong focus on clean architecture, performance, and real-world use cases.  
-My AI work is **JavaScript-based**, integrating LLMs directly into web applications using modern JS tooling.
-
----
-
-## What I Do
-
-- Build scalable full-stack applications with **Next.js (App Router)**
-- Design and implement **REST APIs** using Node.js and Express
-- Work with **PostgreSQL and MongoDB** for production data models
-- Create modern dashboards using **Tailwind CSS and shadcn/ui**
-- Integrate AI features using **JavaScript/TypeScript LLM SDKs**
+I build production-ready web applications using **Next.js and TypeScript**, with an emphasis on clean architecture, performance, and maintainable codebases.  
+My AI work is done entirely in **JavaScript/TypeScript**, integrating LLMs directly into real-world web products.
 
 ---
 
-## AI Work (JavaScript / TypeScript Only)
+## What I Work On
 
-- OpenAI API integration using **Node.js**
-- Streaming AI responses in the browser
-- Server-side prompt handling and safety controls
-- Preparing foundations for **RAG systems in JavaScript**
-- Exploring **LangChain.js** for agent-based workflows
-
-> No Python-based AI workflows. All AI integrations are built in JS/TS.
+- Full-stack applications with **Next.js (App Router)**
+- Backend APIs using **Node.js and Express**
+- Production databases with **PostgreSQL and MongoDB**
+- Modern UI systems using **Tailwind CSS and shadcn/ui**
+- AI-powered features using **JavaScript-based LLM SDKs**
 
 ---
 
-## Technical Skills
+## JavaScript-Based AI Experience
+
+- OpenAI API integration in **Node.js**
+- Streaming AI responses in Next.js applications
+- Server-side prompt handling and safety constraints
+- Early-stage **RAG patterns implemented in JavaScript**
+- Exploring **LangChain.js** for agent-style workflows
+
+> No Python-based AI pipelines. All AI integrations are built in JS/TS.
+
+---
+
+## Technical Focus
 
 **Frontend**
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-- shadcn/ui
+- Next.js (App Router, Server Components, Server Actions)
+- React with TypeScript
+- Tailwind CSS, shadcn/ui
 
 **Backend**
-- Node.js
-- Express
-- REST APIs
+- Node.js, Express
+- RESTful API design
+- Authentication and authorization (JWT, role-based access)
 
-**Databases**
-- PostgreSQL
-- MongoDB
-- Prisma
-- Mongoose
+**Data**
+- PostgreSQL, MongoDB
+- Prisma, Mongoose
+- Schema design and query optimization
 
-**State & Data**
+**State & Async**
 - Redux Toolkit
 - TanStack Query
 
-**AI & Tooling (JS/TS)**
+**AI & Platform**
 - OpenAI Node SDK
 - Vercel AI SDK
-- LangChain.js (learning/experimentation)
-- Streaming responses (Server Actions / API routes)
+- Streaming responses
+- LangChain.js (learning)
 
-**Dev Workflow**
-- Git & GitHub
-- Docker (basic)
+**Workflow**
+- Git, GitHub
+- Docker (development-level usage)
 
 ---
 
-## How I Work
+## How I Think About Code
 
-- I write clear, maintainable TypeScript
-- I focus on shipping complete, usable features
-- I design APIs before UI
-- Public repositories are runnable and documented
+- Clarity over cleverness
+- APIs before UI
+- Explicit types and predictable data flow
+- Features are not done until they are usable
 
 ---
 
 ## Contact
 
-- **LinkedIn:** https://www.linkedin.com/in/yasir-ali-75541534a/  
-- **Email:** ali.yasirswe@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/yasir-ali-75541534a/  
+- Email: ali.yasirswe@gmail.com  
 
 ---
 
