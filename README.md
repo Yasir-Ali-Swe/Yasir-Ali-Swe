@@ -76,7 +76,7 @@ Results-driven Full-Stack Developer with expertise in **Next.js, MERN Stack, and
 - **Advanced Next.js 15**: Parallel routes, intercepting routes, advanced caching
 - **AI Integration**: Vercel AI SDK for real-time AI features
 
-### **2024 Focus**
+### **2026 Focus**
 1. **LangChain.js Implementation** - Agentic AI workflows and tool calling
 2. **Vector Databases** - Pinecone/Weaviate for semantic search capabilities
 3. **RAG Systems** - Building retrieval-augmented generation pipelines
@@ -132,5 +132,5 @@ I'm actively seeking roles where I can:
   
   ![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat)
   
-  *Last Updated: November 2024*
+  *Last Updated: January 2026*
 </div>
