@@ -53,8 +53,8 @@
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/Tasir-Ali-Swe
-- LinkedIn: https://linkedin.com/in/yourprofile  
+- GitHub: https://github.com/Yasir-Ali-Swe
+- LinkedIn: https://www.linkedin.com/in/yasir-ali-75541534a/  
 
 ---
 
