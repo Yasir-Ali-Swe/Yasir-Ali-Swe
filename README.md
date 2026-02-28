@@ -1,80 +1,61 @@
-# Yasir Ali  
-**Full-Stack Developer | Next.js · TypeScript · JavaScript AI**
+# 👋 Hi, I'm Yasir Ali  
 
-I build production-ready web applications using **Next.js and TypeScript**, with a focus on clean architecture, performance, and maintainable code.  
-My AI work is done entirely in **JavaScript/TypeScript**, integrating LLMs directly into real-world web products.
+🚀 Full Stack JavaScript Developer | MERN Stack & Next.js  
 
 ---
 
-## 🧠 What I Work On
+## 💻 Tech Stack & Skills  
 
-- ⚙️ Full-stack applications with **Next.js (App Router)**
-- 🧩 Backend APIs using **Node.js and Express**
-- 🗄️ Production databases with **PostgreSQL and MongoDB**
-- 🎨 Modern UI systems using **Tailwind CSS and shadcn/ui**
-- 🤖 AI-powered features using **JavaScript-based LLM SDKs**
+### 🧠 Frontend Development
+- ⚛️ Next.js  
+- ⚛️ React.js  
+- 🎨 Tailwind CSS  
+- 🧩 shadcn/ui  
+- 🗂 Redux Toolkit  
+- 🔄 TanStack Query (React Query)  
 
----
+### 🔙 Backend Development
+- 🟢 Node.js  
+- 🚂 Express.js  
+- 🍃 MongoDB  
+- 🔐 JWT Authentication  
 
-## 🤖 JavaScript-Based AI Experience
+### 🤖 AI Integration
+- 🧠 Vercel AI SDK  
+- AI-powered chat & streaming applications  
 
-- OpenAI API integration using **Node.js**
-- Streaming AI responses in Next.js applications
-- Server-side prompt handling and safety constraints
-- Early-stage **RAG-style patterns implemented in JavaScript**
-- Exploring **LangChain.js** for agent-style workflows
-
-> No Python-based AI pipelines. All AI integrations are built in JS/TS.
-
----
-
-## 🛠 Technical Focus
-
-### 🎨 Frontend
-- Next.js (App Router, Server Components, Server Actions)
-- React with TypeScript  
-- Tailwind CSS, shadcn/ui  
-
-### 🔧 Backend
-- Node.js, Express  
-- RESTful API design  
-- Authentication and authorization (JWT, role-based access)
-
-### 🗄️ Data
-- PostgreSQL, MongoDB  
-- Prisma, Mongoose  
-- Schema design and query optimization  
-
-### 🔄 State & Async
-- Redux Toolkit  
-- TanStack Query  
-
-### 🤖 AI & Platform
-- OpenAI Node SDK  
-- Vercel AI SDK  
-- Streaming responses  
-- LangChain.js (learning)
-
-### 🧰 Workflow
-- Git, GitHub  
-- Docker (development-level usage)
+### 🛠 Tools & Workflow
+- 🗃 Git  
+- 🐙 GitHub  
+- 📦 REST APIs  
+- 🌐 Postman  
+- ☁️ Vercel Deployment  
 
 ---
 
-## 🧩 How I Think About Code
-
-- Clarity over cleverness  
-- APIs before UI  
-- Explicit types and predictable data flow  
-- Features are not done until they are usable  
-
----
-
-## 📬 Contact
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/yasir-ali-75541534a/  
-- ✉️ Email: ali.yasirswe@gmail.com  
+## 🚀 What I Build
+- 🔐 Full authentication systems (Access & Refresh Tokens)
+- 💬 Real-time chat applications
+- 🌍 Full-stack MERN applications
+- ⚡ Server-side rendered & App Router based Next.js apps
+- 🤖 AI-powered SaaS applications
+- 📊 Modern dashboards & admin panels
 
 ---
 
-*Open to full-stack and JavaScript-based AI roles.*
+## 📈 Development Philosophy
+- Clean & scalable architecture  
+- Reusable components  
+- Performance-focused development  
+- SEO optimized applications  
+- Production-ready code  
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/Tasir-Ali-Swe
+- LinkedIn: https://linkedin.com/in/yourprofile  
+
+---
+
+⭐ Always learning, building, and improving.
