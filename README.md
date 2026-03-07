@@ -64,6 +64,23 @@ const yasir = {
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasir-Ali-Swe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&hide=contribs&show_owner=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasir-Ali-Swe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Yasir-Ali-Swe&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+
+</div>
+
+---
+
 ### 📈 Contribution Graph
 
 <div align="center">
