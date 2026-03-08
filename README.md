@@ -337,11 +337,12 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasir_Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/yasir-ali-75541534a/)
+
+<a href="https://www.linkedin.com/in/yasir-ali-75541534a/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Yasir_Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
 &nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-ali.yasirswe%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ali.yasirswe@gmail.com)
 &nbsp;&nbsp;
-
+[![GitHub](https://img.shields.io/badge/GitHub-Yasir--Ali--Swe-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=00b4d8)](https://github.com/Yasir-Ali-Swe)
 
 <br/><br/>
 
