@@ -47,24 +47,6 @@
 
 <br/>
 
-<!-- <table>
-<tr>
-<td align="center" width="50%">
-
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Yasir-Ali-Swe&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&ring_color=00b4d8&count_private=true&include_all_commits=true" width="100%"/>
-
-</td>
-<td align="center" width="50%">
-
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasir-Ali-Swe&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=8" width="100%"/>
-
-</td>
-</tr>
-</table> -->
-
-<br/>
 
 <!-- GitHub Streak -->
 <img src="https://streak-stats.demolab.com?user=Yasir-Ali-Swe&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=c9d1d9&dates=8b949e&stroke=21262d" width="70%"/>
