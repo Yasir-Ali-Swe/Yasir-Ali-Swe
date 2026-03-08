@@ -321,9 +321,6 @@
 
 <br/>
 
-<!-- ── TROPHIES ── -->
-<img src="https://github-profile-trophy.vercel.app/?username=Yasir-Ali-Swe&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers,PullRequest,Issues" width="90%"/>
-
 </div>
 
 <br/>
