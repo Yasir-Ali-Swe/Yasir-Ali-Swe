@@ -16,12 +16,12 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Yasir+Ali;Full+Stack+JS+Developer;MERN+%2B+Next.js+Engineer;SaaS+%7C+AI+%7C+Real-Time+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Yasir+Ali;Full+Stack+%2B+Mobile+Engineer;MERN+%7C+Next.js+%7C+Flutter;Agentic+AI+%7C+RAG+%7C+Multi-Agent+Systems" alt="Typing SVG" />
 
 <br/>
 
 ```
-◈  Crafting scalable web systems · MERN · Next.js · AI Streaming · SaaS
+◈  Building scalable products · Web · Mobile · Agentic AI · SaaS
 ```
 
 <br/>
@@ -47,12 +47,18 @@
 
 <br/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Yasir-Ali-Swe&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&ring_color=00b4d8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasir-Ali-Swe&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=8" width="42%"/>
 
-<!-- GitHub Streak -->
+<br/><br/>
+
 <img src="https://streak-stats.demolab.com?user=Yasir-Ali-Swe&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=c9d1d9&dates=8b949e&stroke=21262d" width="70%"/>
 
-
 </div>
+
+<br/>
+
+> **Note:** if these cards ever show a broken-image icon instead of rendering, it's almost always one of: the GitHub username in the URL doesn't exactly match your handle (case-sensitive), your GitHub activity is set to private, or the free Vercel-hosted instance is temporarily rate-limited. Refreshing the page or waiting a few minutes usually fixes it — the URLs above are correct for `Yasir-Ali-Swe`.
 
 <br/>
 
@@ -68,11 +74,11 @@
 
 <br/>
 
-<!-- ── FRONTEND ── -->
+<!-- ── FRONTEND / MOBILE ── -->
 <table>
 <tr><td align="center" colspan="6">
 
-**`◈  FRONTEND  ◈`**
+**`◈  FRONTEND & MOBILE  ◈`**
 
 </td></tr>
 <tr>
@@ -83,16 +89,16 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </td>
 <td align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+</td>
+<td align="center">
 <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8"/>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/shadcn%2Fui-0d1117?style=for-the-badge&logo=shadcnui&logoColor=white"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white"/>
 </td>
 </tr>
 </table>
@@ -124,17 +130,45 @@
 
 <br/>
 
-<!-- ── AI / TOOLS ── -->
+<!-- ── AGENTIC AI ── -->
 <table>
 <tr><td align="center" colspan="6">
 
-**`◈  AI & TOOLS  ◈`**
+**`◈  AGENTIC AI & LLM ENGINEERING  ◈`**
 
 </td></tr>
 <tr>
 <td align="center">
 <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </td>
+<td align="center">
+<img src="https://img.shields.io/badge/RAG_Pipelines-00b4d8?style=for-the-badge&logo=databricks&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/AI_Chatbots-00b4d8?style=for-the-badge&logo=chatbot&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-7c3aed?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Agent_Orchestration-7c3aed?style=for-the-badge&logo=langchain&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Google_Agent_Dev_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ── TOOLS / PLATFORMS ── -->
+<table>
+<tr><td align="center" colspan="6">
+
+**`◈  TOOLS & PLATFORMS  ◈`**
+
+</td></tr>
+<tr>
 <td align="center">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </td>
@@ -149,6 +183,9 @@
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/REST_APIs-00b4d8?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/SaaS_Architecture-22c55e?style=for-the-badge&logo=cloudsmith&logoColor=white"/>
 </td>
 </tr>
 </table>
@@ -195,6 +232,45 @@
 
 <tr>
 <td align="center">
+<img src="https://img.shields.io/badge/⬡-Agentic_AI_Systems-ef4444?style=flat-square&labelColor=0d1117"/>
+</td>
+<td align="left">Multi-agent orchestration, autonomous task-executing agents, tool-calling pipelines</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Google_ADK+Vercel_AI-0d1117?style=flat-square&logo=google"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/●_Active-ef4444?style=flat-square&labelColor=0d1117"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/⬡-RAG_%26_Chatbots-8b5cf6?style=flat-square&labelColor=0d1117"/>
+</td>
+<td align="left">Retrieval-augmented generation pipelines, knowledge-base chatbots, vector search</td>
+<td align="center">
+<img src="https://img.shields.io/badge/LLMs+Vector_DBs-0d1117?style=flat-square&logo=openai"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/●_Active-8b5cf6?style=flat-square&labelColor=0d1117"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/⬡-Mobile_Apps-02569B?style=flat-square&labelColor=0d1117"/>
+</td>
+<td align="left">Cross-platform mobile apps with native performance and shared codebases</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Flutter+Dart-0d1117?style=flat-square&logo=flutter"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/●_Active-02569B?style=flat-square&labelColor=0d1117"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
 <img src="https://img.shields.io/badge/⬡-Real--Time_Apps-7c3aed?style=flat-square&labelColor=0d1117"/>
 </td>
 <td align="left">Real-time chat, live dashboards, WebSocket event systems</td>
@@ -229,19 +305,6 @@
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/●_Active-f59e0b?style=flat-square&labelColor=0d1117"/>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/⬡-AI_Applications-ef4444?style=flat-square&labelColor=0d1117"/>
-</td>
-<td align="left">AI streaming apps, LLM integrations, Vercel AI SDK powered tools</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Vercel_AI+Next.js-0d1117?style=flat-square&logo=vercel"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/●_Active-ef4444?style=flat-square&labelColor=0d1117"/>
 </td>
 </tr>
 
@@ -285,7 +348,7 @@
 <table>
 <tr>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 <br/>
 <img src="https://img.shields.io/badge/🏆-MERN_Stack-00b4d8?style=for-the-badge&labelColor=0d1117&color=00b4d8"/>
 <br/>
@@ -293,15 +356,23 @@
 <br/><br/>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 <br/>
 <img src="https://img.shields.io/badge/🚀-Full_Stack_Dev-7c3aed?style=for-the-badge&labelColor=0d1117&color=7c3aed"/>
 <br/>
-<sub><sup>Frontend + Backend + DevOps</sup></sub>
+<sub><sup>Web + Mobile + DevOps</sup></sub>
 <br/><br/>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
+<br/>
+<img src="https://img.shields.io/badge/🤖-Agentic_AI-ef4444?style=for-the-badge&labelColor=0d1117&color=ef4444"/>
+<br/>
+<sub><sup>RAG · Multi-Agent · Orchestration</sup></sub>
+<br/><br/>
+</td>
+
+<td align="center" width="20%">
 <br/>
 <img src="https://img.shields.io/badge/⚙️-SaaS_Builder-22c55e?style=for-the-badge&labelColor=0d1117&color=22c55e"/>
 <br/>
@@ -309,7 +380,7 @@
 <br/><br/>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 <br/>
 <img src="https://img.shields.io/badge/🌐-Open_Source-f59e0b?style=for-the-badge&labelColor=0d1117&color=f59e0b"/>
 <br/>
@@ -338,17 +409,15 @@
 
 <br/>
 
-
 <a href="https://www.linkedin.com/in/yasir-ali-75541534a/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Yasir_Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
 &nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-ali.yasirswe%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ali.yasirswe@gmail.com)
 &nbsp;&nbsp;
 
-
 <br/><br/>
 
 ```
-◈  Open to collaboration · SaaS · AI · Full Stack · Remote ◈
+◈  Open to collaboration · SaaS · Agentic AI · Mobile · Full Stack · Remote ◈
 ```
 
 <br/>
