@@ -47,8 +47,8 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yasir-Ali-Swe&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&ring_color=00b4d8" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasir-Ali-Swe&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=8" width="42%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Yasir-Ali-Swe&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&ring_color=00b4d8" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yasir-Ali-Swe&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=8" width="42%"/>
 
 <br/><br/>
 
@@ -58,7 +58,7 @@
 
 <br/>
 
-> **Note:** if these cards ever show a broken-image icon instead of rendering, it's almost always one of: the GitHub username in the URL doesn't exactly match your handle (case-sensitive), your GitHub activity is set to private, or the free Vercel-hosted instance is temporarily rate-limited. Refreshing the page or waiting a few minutes usually fixes it — the URLs above are correct for `Yasir-Ali-Swe`.
+> **Note:** these cards now point at `github-stats-extended.vercel.app`, the actively-maintained successor to the original `github-readme-stats.vercel.app`, which its own maintainers have deprecated due to persistent downtime and rate-limiting on the old public instance. If a card is ever slow to load, give it a few seconds and refresh — free shared instances can still see brief traffic spikes, but this one is far more stable than the old domain.
 
 <br/>
 
