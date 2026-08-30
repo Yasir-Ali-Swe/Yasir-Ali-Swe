@@ -98,7 +98,7 @@ I enjoy building complete applications from **frontend interfaces and backend AP
 
 I'm interested in opportunities involving:
 
-**Full Stack Development • MERN Stack • Next.js • Node.js • Backend Engineering • React Native • AI Engineering • Agentic AI • RAG • AI Agents • Multi-Agent Systems**
+**Full Stack Development | MERN Stack | Next.js | Node.js | Backend Engineering | React Native | AI Engineering | Agentic AI | RAG | AI Agents | Multi-Agent Systems**
 
 ---
 
