@@ -1,53 +1,131 @@
 # Hi, I'm Yasir Ali 👋
 
-Software Engineer specializing in full-stack web and mobile development, with a growing focus on agentic AI systems.
+### Full Stack Software Engineer | MERN Stack | Next.js | Agentic AI
 
-I build SaaS platforms, real-time applications, and AI-powered products — from RAG chatbots to multi-agent orchestration. Based in Faisalabad, Pakistan.
+I'm a **Software Engineering graduate** and Full Stack Software Engineer focused on building modern web applications, scalable backend systems, and AI-driven solutions.
 
-📫 [ali.yasirswe@gmail.com](mailto:ali.yasirswe@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yasir-ali-75541534a/)
+My core expertise is in **MERN Stack, Next.js, Node.js, REST APIs, PostgreSQL, MongoDB, and React Native**. I'm also focused on **Agentic AI, RAG, AI Agents, Tool Calling, and Multi-Agent Systems**.
 
----
-
-### What I work on
-
-- **Full-stack web development** — building and shipping production apps end to end with the MERN stack and Next.js
-- **Mobile development** — cross-platform apps with Flutter
-- **Agentic AI** — RAG pipelines, LLM-powered chatbots, and multi-agent orchestration using Google's Agent Development Kit
-- **SaaS architecture** — multi-tenant systems, subscription billing, role-based access
-- **Real-time systems** — WebSocket-based chat and live dashboards
-- **Authentication** — secure, production-grade auth with JWT and OAuth
+I enjoy building complete applications from **frontend interfaces and backend APIs to databases, authentication, real-time communication, AI systems, and deployment**.
 
 ---
 
-### Tech Stack
+## 👨‍💻 About Me
 
-**Frontend & Mobile**
-`Next.js` `React` `Flutter` `Dart` `Tailwind CSS` `shadcn/ui`
-
-**Backend**
-`Node.js` `Express.js` `MongoDB` `JWT`
-
-**AI & Agents**
-`Vercel AI SDK` `RAG Pipelines` `LLM Chatbots` `Multi-Agent Systems` `Google Agent Development Kit`
-
-**Tools**
-`Git` `GitHub` `Postman` `REST APIs` `Vercel`
-
----
-
-### Featured Projects
-
-| Project | Description |
-|---|---|
-| [MERN Real-Time Chat Application](https://github.com/Yasir-Ali-Swe/MERN-Real-Time-Chat-Application) | Real-time chat app built on the MERN stack with WebSocket messaging |
-| [Access & Refresh Tokens Auth](https://github.com/Yasir-Ali-Swe/Access-And-Refresh-Tokens-Auth) | Secure authentication system using access and refresh token rotation |
-| [Saas-IMS](https://github.com/Yasir-Ali-Swe/Saas-IMS) | Multi-tenant SaaS inventory management system |
+* 🎓 **BS Software Engineering**
+* 💻 Full Stack Software Engineer
+* ⚡ Specialized in **MERN Stack & Next.js**
+* 🤖 Focused on **Agentic AI & AI Engineering**
+* 🧠 Learning and building **RAG & Multi-Agent Systems**
+* 🔌 Experienced with **REST APIs, WebSockets & third-party integrations**
+* 🗄️ Experienced with **MongoDB & PostgreSQL**
+* 📱 React Native development
+* 🚀 Interested in building production-ready applications
+* 🌍 Open to **Full-Time, Contract & Remote opportunities**
 
 ---
 
-### Let's connect
+## 🛠️ Skills & Technologies
 
-I'm open to collaborating on web, mobile, and AI-agent projects.
+### Frontend
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasir-ali-75541534a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ali.yasirswe@gmail.com)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge\&logo=shadcnui\&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge\&logo=prisma\&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge\&logo=mongoose\&logoColor=white)
+
+### AI Engineering
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge\&logo=googlegemini\&logoColor=white)
+
+* Agentic AI
+* AI Agents
+* RAG (Retrieval-Augmented Generation)
+* Multi-Agent Systems
+* LLM Applications
+* Tool Calling
+* AI Workflows
+* Vector Search
+* Knowledge Bases
+* LangChain
+* Google ADK
+* OpenAI Agents SDK
+
+### APIs & Real-Time
+
+* REST APIs
+* WebSockets
+* Socket.io
+* JWT Authentication
+* Access & Refresh Token Rotation
+* Role-Based Access Control
+* Third-Party API Integration
+* Telegram Bot API
+
+### Tools & Deployment
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge\&logo=digitalocean\&logoColor=white)
+
+* Git & GitHub
+* Postman
+* Vercel
+* Render
+* DigitalOcean
+* VS Code
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm interested in opportunities involving:
+
+**Full Stack Development • MERN Stack • Next.js • Node.js • Backend Engineering • React Native • AI Engineering • Agentic AI • RAG • AI Agents • Multi-Agent Systems**
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:ali.yasirswe@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yasir-ali-75541534a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Yasir-Ali-Swe">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+📧 **Email:** [ali.yasirswe@gmail.com](mailto:ali.yasirswe@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/yasir-ali-75541534a](https://www.linkedin.com/in/yasir-ali-75541534a/)
+
+🐙 **GitHub:** [github.com/Yasir-Ali-Swe](https://github.com/Yasir-Ali-Swe)
+
+---
+
+## 🚀 Let's Build Something
+
+I'm interested in building useful software, exploring AI technologies, and solving challenging engineering problems.
+
+**Thanks for visiting my profile! 👋**
