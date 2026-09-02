@@ -1,6 +1,6 @@
 # Hi, I'm Yasir Ali 👋
 
-### Full Stack Software Engineer | MERN Stack | Next.js | Agentic AI
+### Full Stack Software Engineer | MERN Stack | Next.js | Agentic AI | Rag
 
 I'm a **Software Engineering graduate** and Full Stack Software Engineer focused on building modern web applications, scalable backend systems, and AI-driven solutions.
 
